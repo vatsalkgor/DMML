@@ -1,6 +1,3 @@
 .ipynb_checkpoints/
 Data Mining Case Studies/
-*.docx
-*.png
-pima-indians-diabetes.csv
-.DS_Store
+temp_files/
